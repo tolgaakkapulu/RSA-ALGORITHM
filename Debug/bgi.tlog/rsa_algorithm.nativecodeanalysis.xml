@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\harbİye\desktop\rsa algorİthm\</FILEPATH><FILENAME>rsa_algorithm.cpp</FILENAME><LINE>109</LINE><COLUMN>8</COLUMN></SFA><DEFECTCODE>6031</DEFECTCODE><DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION><FUNCTION>main</FUNCTION><DECORATED>main</DECORATED><FUNCLINE>66</FUNCLINE><PATH/></DEFECT></DEFECTS>
