@@ -1,4 +1,4 @@
 # RSA-ALGORITHM
-"graphics.h" kütüphanesi kullanılarak C Programlama dilinde RSA-Algorithm uygulaması yapılmıştır.
+RSA-Algorithm application was written in C Programming language by using "graphics.h" library.
 
-Bu uygulamada 100 ile 150 arasında olacak şekilde rastgele asal sayılar ve aynı şekilde 0 ile 100 arasında belirlenen rastgele bir mesaj belirlenmiş olup, uygulamada hem şifreleme hem de deşifreleme yapılmıştır. Asal sayıların belirlenmesi ve iletilecek olan mesajın şifrelenmesi açısından, inisiyatif kullanıcıya bırakılmış olup bir C derleyicisinde kodlar düzenlenebilmektedir.
+In this application, random prime numbers between 100 and 150 and likewise a random message between 0 and 100 were determined, and both encryption and decryption were performed in the application. In terms of determining prime numbers and encrypting the message to be transmitted, the initiative is left to the user and codes can be edited in a C compiler.
