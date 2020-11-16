@@ -1,7 +1,3 @@
-//	ÇUKUROVA UNIVERSITY
-//	COMPUTER ENGINEERING
-//	TOLGA AKKAPULU
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
